@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cool-weather/static/css/main.705390ba.css",
+    "main.js": "/cool-weather/static/js/main.d1f61d5b.js",
+    "static/media/minimalizm_nebo_oblaka.jpg": "/cool-weather/static/media/minimalizm_nebo_oblaka.00147d0103f7ee3f03c1.jpg",
+    "index.html": "/cool-weather/index.html",
+    "main.705390ba.css.map": "/cool-weather/static/css/main.705390ba.css.map",
+    "main.d1f61d5b.js.map": "/cool-weather/static/js/main.d1f61d5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.705390ba.css",
+    "static/js/main.d1f61d5b.js"
+  ]
+}
